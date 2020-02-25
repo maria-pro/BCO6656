@@ -7,7 +7,7 @@ BCO6656 IT Project Management
 
 3. Project management processes
 
-4.Project integration management
+4. Project integration management
 
 5. Project scope management
 
